@@ -1,0 +1,11 @@
+rect{
+  fill:green;
+}
+body,#tooltip{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
+.bar:hover{
+ fill:lime; 
+}
